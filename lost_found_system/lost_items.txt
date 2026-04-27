@@ -1,0 +1,42 @@
+Item ID: 100
+Item Name: Mobile
+Lost Date: 2026-03-12
+Marks: scratch on the back
+Place: lab
+Contact: 6374961547
+Image Path: imagae.png
+Description: nothing
+Status: RESOLVED
+Created By: sxwxd_14
+Created At: 2026-03-13T15:13:36.098446200
+Updated By: bob
+Updated At: 2026-03-19T16:48:09.435273900
+---
+Item ID: 105
+Item Name: pen
+Lost Date: 2026-03-14
+Marks: blue cap
+Place: library
+Contact: 6374961547
+Image Path: mage.png
+Description: df
+Status: OPEN
+Created By: prisca
+Created At: 2026-03-19T17:03:43.505353900
+Updated By: 
+Updated At: 
+---
+Item ID: 106
+Item Name: item1
+Lost Date: 2026-03-20
+Marks: mark
+Place: place
+Contact: 9876543210
+Image Path: img.png
+Description: desc
+Status: OPEN
+Created By: newuser2
+Created At: 2026-03-20T14:49:55.386541600
+Updated By: 
+Updated At: 
+---

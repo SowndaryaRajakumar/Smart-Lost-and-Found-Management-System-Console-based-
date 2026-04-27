@@ -1,0 +1,44 @@
+User ID: 2
+Username: admin
+Password: e86f78a8a3caf0b60d8e74e5942aa6d86dc150cd3c03338aef25b7d2d7e3acc7
+Phone: 9999999999
+Email: admin@system.com
+Role: ADMIN
+Created By: system
+Created At: 2026-03-20T14:41:02.009074600
+Updated By: 
+Updated At: 
+---
+User ID: 1
+Username: newuser
+Password: 5d6c6524da62daa2a5438dd82f401b0e5cec1cfdb69bd456acb7230fd56c51dd
+Phone: 9876543210
+Email: test@example.com
+Role: USER
+Created By: newuser
+Created At: 2026-03-20T14:41:01.993077400
+Updated By: 
+Updated At: 
+---
+User ID: 1
+Username: newuser2
+Password: 5d6c6524da62daa2a5438dd82f401b0e5cec1cfdb69bd456acb7230fd56c51dd
+Phone: 9876543210
+Email: test2@example.com
+Role: USER
+Created By: newuser2
+Created At: 2026-03-20T14:49:55.324331500
+Updated By: 
+Updated At: 
+---
+User ID: 1
+Username: sowndarya_14
+Password: 6bf6f92799ba7f6afe4cc65c0bbcacac6e84e8a5bfb8eeab697c86fe0d511bbf
+Phone: 6374961547
+Email: sowndarya.141106@gmail.com
+Role: USER
+Created By: sowndarya_14
+Created At: 2026-04-27T22:00:23.387605600
+Updated By: 
+Updated At: 
+---
